@@ -4,7 +4,7 @@
             id="Layer_2"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 89.13 51.74"
-            class="h-36 m-auto"
+            class="h-[9.5rem] m-auto"
         >
             <g id="Layer_1-2" data-name="Layer_1">
                 <g>
@@ -23,11 +23,11 @@
                 </g>
             </g>
         </svg>
-        <h1 class="mt-8 text-4xl text-zinc-600 font-bold">
+        <h1 class="mt-6 text-[2rem] text-zinc-600 font-bold">
             Under Construction...
         </h1>
 
-        <div class="flex justify-center items-center w-full mt-6 gap-2">
+        <div class="flex justify-center items-center w-full mt-4 gap-2">
             <a
                 class="bg-indigo-500 hover:bg-indigo-600 transition-colors duration-200 text-zinc-50 p-2 rounded-lg"
                 href="https://discord.gg/JbDUZWT"
