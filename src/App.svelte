@@ -23,11 +23,11 @@
                 </g>
             </g>
         </svg>
-        <h1 class="mt-6 text-[2rem] text-zinc-600 font-bold">
+        <h1 class="mt-5 text-[2rem] text-zinc-600 font-bold">
             Under Construction...
         </h1>
 
-        <div class="flex justify-center items-center w-full mt-4 gap-2">
+        <div class="flex justify-center items-center w-full mt-5 gap-2">
             <a
                 class="bg-indigo-500 hover:bg-indigo-600 transition-colors duration-200 text-zinc-50 p-2 rounded-lg"
                 href="https://discord.gg/JbDUZWT"
