@@ -45,7 +45,7 @@
             </a>
             <a
                 class="bg-zinc-700 hover:bg-zinc-800 transition-colors duration-200 text-zinc-50 p-2 rounded-lg"
-                href="https://discord.gg/JbDUZWT"
+                href="https://github.com/principle105/"
             >
                 <svg
                     xmlns="http://www.w3.org/2000/svg"
